@@ -1,0 +1,16 @@
+{
+  "fresh_demo_file_count": 5,
+  "duplicate_groups": [
+    [
+      "notes_copy.txt",
+      "notes_draft.txt"
+    ]
+  ],
+  "rename_examples": {
+    "invoice_draft.txt": "invoice_final_001.txt",
+    "metadata_sample.json": "metadata_sample_002.json",
+    "notes_copy.txt": "notes_copy_003.txt",
+    "notes_draft.txt": "notes_final_004.txt",
+    "subfolder/report_draft.csv": "subfolder/report_final_005.csv"
+  }
+}

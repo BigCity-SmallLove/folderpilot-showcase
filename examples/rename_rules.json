@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "mode": "rename",
+  "recursive": true,
+  "extensions": "",
+  "min_bytes": 0,
+  "max_bytes": 0,
+  "since": "",
+  "until": "",
+  "find": "draft",
+  "replace": "final",
+  "regex": false,
+  "prefix": "",
+  "suffix": "",
+  "number": true,
+  "start": 1,
+  "padding": 3,
+  "organize_by": "type",
+  "watch_seconds": 5
+}

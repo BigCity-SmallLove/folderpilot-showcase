@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "mode": "duplicates",
+  "recursive": true,
+  "extensions": "",
+  "min_bytes": 0,
+  "max_bytes": 0,
+  "since": "",
+  "until": "",
+  "find": "",
+  "replace": "",
+  "regex": false,
+  "prefix": "",
+  "suffix": "",
+  "number": false,
+  "start": 1,
+  "padding": 3,
+  "organize_by": "type",
+  "watch_seconds": 5
+}
